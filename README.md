@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chimeziem Emmanuella</h1>
-<h3 align="center">I am a frontend developer and tech instructor at nugi innovations.I like to build interactive software interfaces that display real-time data and love to teach people to do the same. I am intuitive and dedicated to building value-oriented interfaces</h3>
+<h3 align="center">I am a frontend developer and tech instructor at nugi innovations. I like to build interactive software interfaces that display real-time data and love to teach people to do the same. I am intuitive and dedicated to building value-oriented interfaces</h3>
 
 - 🌱 I’m currently learning **React, API implementation**
 
